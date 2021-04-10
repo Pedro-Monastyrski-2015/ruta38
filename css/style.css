@@ -1,0 +1,39 @@
+:root {
+  /* Text-style */
+  --Titulos-font: "Audiowide", cursive;
+  --Text-font: "Inder", sans-serif;
+  /* letter-spacing */
+  --letter-spacing-L: 3.78rem;
+  --letter-spacing-XL-: 4.62rem;
+  --letter-spacing-S-: normal;
+
+  /* Text-size */
+  --font-size-XXL: 2.2rem;
+  --font-size-XL: 1.8rem;
+  --font-size-L: 1.6rem;
+  --font-size-XS: 1.4rem;
+
+  /* Colores */
+  --P-red: rgba(217, 30, 80, 1);
+  --P-blue: rgba(3, 76, 140, 1);
+  --P-brow: rgba(166, 89, 45, 1);
+  --P-skin: rgba(217, 178, 156, 1);
+  --P-white: rgba(255, 255, 255, 1);
+  --P-gray: rgba(140, 140, 140, 1);
+  --P-black: rgba(0, 0, 0, 1);
+  --P-orange-ligth: rgba(191, 154, 107, 1);
+  --P-orange-dark: rgba(188, 82, 19, 1);
+
+  --P-card-hover: rgba(130, 117, 117, 0.54);
+
+  /* card-border */
+  --P-card-border: 0.1rem solid rgba(0, 0, 0, 0.14);
+
+  /* pic-size */
+  --pic-size_min-heigth: 31.6rem;
+  --pic-size_min-width: 30.3rem;
+  --pic-card-radio: 1.5rem;
+}
+html {
+  font-size: 63, 5%;
+}
